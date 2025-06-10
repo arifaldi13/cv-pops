@@ -1,6 +1,11 @@
 # The Present-Day CV Population
 
-CV population material in [Putra+25}(https://gcs.itb.ac.id/proceeding-igsc/igsc/article/view/289)
+CV population material in [Putra+25}(https://gcs.itb.ac.id/proceeding-igsc/igsc/article/view/289). This repository contains the MESA Database that we used and the final results of our calculation. We will release some of our works in IPython Notebook gradually in the future, which includes:
+* Data preprocessing from MESA simulation results (coming soon...)
+* Classifying CV binary and predictions (CV_classification_MESA.ipynb, see section 3)
+* Calculating CV parameters and making the present-day CV distribution (coming soon...)
+* And more...
+Almost all of our works will incorporate machine learning to cut cost and time from real numerical simulation.
 
 ## The Database
 
@@ -10,7 +15,7 @@ The database is in the folder 'MESA_COMPILED' which consists of a compiled MESA 
 
 The data is in the folder "POPS" which consists of the synthesized present-day CV population. This is the result of interpolation of the database with the grid. It has the initial parameters and values ($M_1$, $M_2$, and $P_\text{i}$) and the corresponding interpolated values $P_\text{f}$ and $P_\text{WD}$. Each txt file represents the "age window". The list of corresponding ages is in the _legend.txt file.
 
-## Cataclysmic Variable (CV) Population Synthesis with Machine Learning
+## CV Population Synthesis with Machine Learning
 
 This project explores the formation and population of Cataclysmic Variables (CVs) by leveraging machine learning to create a surrogate model for complex astrophysical simulations. The core of this repository is a deep learning model trained on data from the **Modules for Experiments in Stellar Astrophysics (MESA)** code.
 
