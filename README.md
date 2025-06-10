@@ -1,6 +1,6 @@
 # The Present-Day CV Population
 
-CV population material in Putra 24 (in preparation)
+CV population material in [Putra+25}(https://gcs.itb.ac.id/proceeding-igsc/igsc/article/view/289)
 
 ## The Database
 
