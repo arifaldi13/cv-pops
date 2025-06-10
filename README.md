@@ -8,6 +8,8 @@ CV population material in [Putra+25}(https://gcs.itb.ac.id/proceeding-igsc/igsc/
 
 Almost all of our works will incorporate machine learning to cut cost and time from real numerical simulation.
 
+![CV Prediction](https://github.com/arifaldi13/cv-pops]/blob/master/image.jpg?raw=true)
+
 ## The Database
 
 The database is in the folder 'MESA_COMPILED' which consists of a compiled MESA output with $M_1$, $M_2$, and $P_\text{i}$ as the initial parameters and $P_\text{f}$, $P_\text{WD}$ and the status of mass transfer that in the threshold of CV at the time of given age. Each txt file represents the "age window". The list of corresponding ages is in the _legend.txt file. The value of simulation results consists of an inf value, which means the model already 'dead' at the age window.
