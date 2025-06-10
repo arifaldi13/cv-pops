@@ -52,7 +52,6 @@ The notebook provides a structured guide for classifying binary systems as CVs o
 *   **NumPy**: For numerical operations.
 *   **Matplotlib**: For visualization.
 
----
 
 ### Getting Started
 
