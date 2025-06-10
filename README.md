@@ -8,7 +8,7 @@ CV population material in [Putra+25}(https://gcs.itb.ac.id/proceeding-igsc/igsc/
 
 Almost all of our works will incorporate machine learning to cut cost and time from real numerical simulation.
 
-![CV Prediction](https://github.com/arifaldi13/cv-pops/blob/master/Pic1.png?raw=true)
+![CV Prediction](Pic1.png)
 
 ## The Database
 
