@@ -5,6 +5,7 @@ CV population material in [Putra+25}(https://gcs.itb.ac.id/proceeding-igsc/igsc/
 * Classifying CV binary and predictions (CV_classification_MESA.ipynb, see section 3)
 * Calculating CV parameters and making the present-day CV distribution (coming soon...)
 * And more...
+
 Almost all of our works will incorporate machine learning to cut cost and time from real numerical simulation.
 
 ## The Database
